@@ -1,2 +1,3 @@
 # password-cracker
-Dictionary and brute force password cracking library 
+A dictionary and brute force password cracking library. Password crackers can be configured with the number
+of workers (go routines) to work concurrently on cracking the password.
